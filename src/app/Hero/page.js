@@ -40,7 +40,7 @@ const Page = () => {
     })
   }
 
-  const text = 'we make gamesds'
+  const text = 'we make games'
 
   return (
     <>
